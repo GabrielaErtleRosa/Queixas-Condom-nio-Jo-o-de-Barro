@@ -1,0 +1,2 @@
+Sistema que registra reclamações dos moradores do condomínio João de Barro por meio de página web, codificado em Java utilizando framework SpringBoot para aplicação Web e Derby para integração com banco de dados;
+A reclamações são formalizadas pelos residentes e categorizadas por prioridade pelos mesmos, para serem ordenadas mais tarde em uma consulta no banco de dados pela administração do condomínio
